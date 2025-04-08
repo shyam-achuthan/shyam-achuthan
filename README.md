@@ -12,7 +12,7 @@ Responsible for talent acquisition, grooming, growth, management, and retention 
 - 🌱 I’m currently learning more about cloud computing and AI.
 - 👯 I’m looking to collaborate on exciting software development projects.
 - 💬 Ask me about anything related to web development and cloud computing.
-- 📫 How to reach me: shyam.achuthan@example.com
+- 📫 How to reach me: shyam@shyamachuthan.com
 - ⚡ Fun fact: I enjoy hiking and driving in my free time.
 
 ## 🛠️ Tech Stack
@@ -37,7 +37,7 @@ Responsible for talent acquisition, grooming, growth, management, and retention 
 
 - [LinkedIn](https://www.linkedin.com/in/shyam-achuthan)
 - [Twitter](https://twitter.com/shyam_achuthan)
-- [Blog](https://shyamachuthan.dev)
+- [Blog](https://shyamachuthan.com)
 
 Feel free to reach out if you want to collaborate on projects or just want to chat about tech!
 
