@@ -23,10 +23,6 @@ Responsible for talent acquisition, grooming, growth, management, and retention 
 - **Tools**: Git, Docker, Kubernetes, Jenkins
 - **Cloud**: AWS, Azure, Google Cloud
 
-## 📈 GitHub Stats
-
-![Shyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyam-achuthan&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 
 - Contributed to several high-impact open-source projects.
